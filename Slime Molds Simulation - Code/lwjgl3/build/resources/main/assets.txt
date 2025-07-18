@@ -1,4 +1,0 @@
-slimeMoldsLogo128.png
-slimeMoldsLogo16.png
-slimeMoldsLogo32.png
-slimeMoldsLogo64.png

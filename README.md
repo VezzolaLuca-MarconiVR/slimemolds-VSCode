@@ -1,1 +1,1 @@
-# gamneoflife-VSCode
+# slimemolds-VSCode
